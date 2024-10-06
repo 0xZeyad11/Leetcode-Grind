@@ -1,6 +1,3 @@
-# Leetcode-Grind
-My Leetcode Solutions.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
