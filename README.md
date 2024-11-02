@@ -5,18 +5,22 @@
 | ------- |
 | [0001-two-sum](https://github.com/zedoh/Leetcode-Grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zedoh/Leetcode-Grind/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
