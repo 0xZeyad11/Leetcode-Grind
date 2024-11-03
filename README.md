@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/zedoh/Leetcode-Grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -32,6 +33,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/zedoh/Leetcode-Grind/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
