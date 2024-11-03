@@ -1,11 +1,10 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        if(s.empty()) return true ; 
         string word =  process(s) ; 
         int l = 0 ; 
         int r  = (int)word.size()-1   ; 
-        if(word.size() == 1) return true ; 
+        if(s.empty() || word.size() == 1) return true ; 
         while(l < r){
             if(word[l] != word[r]) return false;
             else{
