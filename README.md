@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/zedoh/Leetcode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zedoh/Leetcode-Grind/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/zedoh/Leetcode-Grind/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
