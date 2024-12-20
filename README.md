@@ -113,4 +113,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/zedoh/Leetcode-Grind/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/zedoh/Leetcode-Grind/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
