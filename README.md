@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/zedoh/Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zedoh/Leetcode-Grind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/zedoh/Leetcode-Grind/tree/master/2812-find-the-maximum-achievable-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
