@@ -50,6 +50,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/xeenoh/Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zedoh/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
