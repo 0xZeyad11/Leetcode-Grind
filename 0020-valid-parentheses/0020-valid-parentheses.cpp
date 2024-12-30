@@ -7,13 +7,14 @@ public:
         for (char ch : s) {
             if (myMap.find(ch) != myMap.end()) {
                 myStack.push(ch);
-                cout<<"We found " <<ch<<'\n' ; 
             } else {
-                if(myStack.empty() || myMap.at(myStack.top()) != ch) return false ; 
-               else myStack.pop() ; 
+                if (!myStack.empty()) {
+                    if (myMap.at(myStack.top()) == ch) {
+                        myStack.pop();
+                    }else return false; 
+                }else return false ;
             }
         }
-
-        return myStack.empty();
-    }
-};
+            return myStack.empty();
+        }
+    };
