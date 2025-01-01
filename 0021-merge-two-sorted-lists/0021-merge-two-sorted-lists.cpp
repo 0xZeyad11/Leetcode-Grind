@@ -11,28 +11,22 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-       vector<int> mergedList = merge(list1 , list2) ;
-       return generateList(mergedList, 0) ; 
-    }
-
-    vector<int> merge(ListNode* list1 , ListNode* list2){
-        vector<int>st ; 
-        while(list1){
-            st.push_back(list1->val) ; 
-            list1 = list1->next ; 
+        ListNode* dummy = new ListNode();
+        ListNode* current = dummy;
+        while (list1 && list2) {
+            if (list1->val <= list2->val) {
+                current->next = list1;
+                list1 = list1->next;
+            } else {
+                current->next = list2;
+                list2 = list2->next;
+            }
+            current = current->next;
         }
-        while(list2){
-            st.push_back(list2->val) ; 
-            list2 = list2->next ; 
-        }
-
-        sort(st.begin() , st.end()) ; 
-        return st ; 
-    }
-    ListNode* generateList(vector<int>& st , int i){
-        if (i >= st.size()) return nullptr; 
-        ListNode* node = new ListNode(st[i]); 
-         node->next = generateList(st , i+1 ) ; 
-         return node ;
+        if (list1)
+            current->next = list1;
+        if (list2)
+            current->next = list2;
+        return dummy->next;
     }
 };
