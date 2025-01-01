@@ -133,6 +133,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/xeenoh/Leetcode-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/xeenoh/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -141,4 +142,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/xeenoh/Leetcode-Grind/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/xeenoh/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
