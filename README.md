@@ -131,9 +131,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/xeenoh/Leetcode-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/xeenoh/Leetcode-Grind/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
