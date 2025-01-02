@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
@@ -143,4 +144,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/xeenoh/Leetcode-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/xeenoh/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
