@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/zedoh/Leetcode-Grind/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -156,4 +157,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
