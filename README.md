@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/zedoh/Leetcode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/zedoh/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zedoh/Leetcode-Grind/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/zedoh/Leetcode-Grind/tree/master/3451-string-compression-iii) |
@@ -126,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [2812-find-the-maximum-achievable-number](https://github.com/zedoh/Leetcode-Grind/tree/master/2812-find-the-maximum-achievable-number) |
 ## Union Find
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
