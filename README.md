@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/zedoh/Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/xeenoh/Leetcode-Grind/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/zedoh/Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zedoh/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/zedoh/Leetcode-Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xeenoh/Leetcode-Grind/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zedoh/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
 ## Tree
@@ -158,4 +161,12 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
