@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/xeenoh/Leetcode-Grind/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/xeenoh/Leetcode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/xeenoh/Leetcode-Grind/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/xeenoh/Leetcode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/xeenoh/Leetcode-Grind/tree/master/0792-binary-search) |
 ## Greedy
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/xeenoh/Leetcode-Grind/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
