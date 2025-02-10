@@ -1,19 +1,19 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int n = nums.size() ; 
-        int left = 0  ;
-        int right = n-1 ; 
-        if (n == 1){
-            if(target == nums[0]) return 0 ; 
-            return -1; 
-        }
-        while(left <= right){
-            if(nums[left] == target) return left ; 
-            
-            else if(nums[left] <target) left ++ ; 
-            else right -- ; 
-        }
-        return -1 ;
+       int n = nums.size() ; 
+   
+       int l = 0 ; 
+       int r = n-1 ; 
+       while (l <= r){
+        int mid = l +  (r-l)/2 ; 
+        if(nums[mid]  < target){
+            l = mid+1 ; 
+        }else if(nums[mid] > target){
+            r = mid-1; 
+        }else return mid ; 
+       }
+
+       return -1 ; 
     }
 };
