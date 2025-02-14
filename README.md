@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/xeenoh/Leetcode-Grind/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/zedoh/Leetcode-Grind/tree/master/2350-find-closest-number-to-zero) |
@@ -28,6 +29,7 @@
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/zedoh/Leetcode-Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +130,7 @@
 | [0035-search-insert-position](https://github.com/xeenoh/Leetcode-Grind/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/xeenoh/Leetcode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/xeenoh/Leetcode-Grind/tree/master/0792-binary-search) |
 ## Greedy
 |  |
