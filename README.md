@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/xeenoh/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0015-3sum](https://github.com/xeenoh/Leetcode-Grind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/zedoh/Leetcode-Grind/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zedoh/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +110,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -119,6 +123,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
