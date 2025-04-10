@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/xeenoh/Leetcode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/xeenoh/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xeenoh/Leetcode-Grind/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xeenoh/Leetcode-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zedoh/Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/xeenoh/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@
 | [0020-valid-parentheses](https://github.com/xeenoh/Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zedoh/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xeenoh/Leetcode-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
 ## Tree
 |  |
@@ -152,6 +154,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xeenoh/Leetcode-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/xeenoh/Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [2812-find-the-maximum-achievable-number](https://github.com/zedoh/Leetcode-Grind/tree/master/2812-find-the-maximum-achievable-number) |
 ## Union Find
