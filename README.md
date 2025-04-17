@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/zedoh/Leetcode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/zedoh/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/xeenoh/Leetcode-Grind/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xeenoh/Leetcode-Grind/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/zedoh/Leetcode-Grind/tree/master/2350-find-closest-number-to-zero) |
@@ -72,6 +73,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/zedoh/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xeenoh/Leetcode-Grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/xeenoh/Leetcode-Grind/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/xeenoh/Leetcode-Grind/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xeenoh/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/xeenoh/Leetcode-Grind/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
