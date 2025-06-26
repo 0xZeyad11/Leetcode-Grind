@@ -218,4 +218,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xeenoh/Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/xeenoh/Leetcode-Grind/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
