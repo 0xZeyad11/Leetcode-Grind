@@ -1,36 +1,36 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        bool res  = false ; 
-       int m = matrix.size() ;
-       int up = 0 ; 
-       int down = m-1 ; 
-
-       while(up <= down){
-        int Vmid = (up + down)/2  ; 
-        if(matrix[Vmid][0] > target){
-            down = Vmid - 1; 
-        }else if(matrix[Vmid][0] < target){
-            cout<<"Found in row no "<<Vmid<<'\n' ; 
-            res  = binarySearch(matrix[Vmid] , target) ; 
-            if(res) return true ; 
-            else up = Vmid + 1 ; 
+        bool res = false  ; 
+        int bottom = matrix.size() - 1 ,  top = 0 ; 
+        int rmid = 0 ; 
+        while(top <= bottom){
+            // A pointer to the mid row
+            rmid = top + (bottom-top)/2  ; 
+            if(matrix[rmid][0] == target) return true ; 
+            else if(matrix[rmid][0] < target){
+                top = rmid +  1; 
+                res = bs(matrix[rmid], target) ; 
+            }else {
+                bottom = rmid - 1 ; 
+            }
         }
-       } 
-       return res ; 
+
+        return res ;
     }
 
-    bool binarySearch(const vector<int>& nums , int target){
-        int n = nums.size() ; 
-        int right = n-1 ;
-        int left = 0 ; 
+    bool bs(const vector<int>& matrix,  int target){
+        int left = 0 ; int right = matrix.size()-1 ; 
         while(left <= right){
-            int mid = left + (right - left)/2 ; // No overflows
-            if(nums[mid] > target) right = mid - 1 ; 
-            else if(nums[mid] < target) left = mid + 1 ; 
-            else return true ; 
+            int mid = left + (right-left)/2 ; 
+            if(matrix[mid] == target) return true ;
+            else if(matrix[mid] > target){
+                right = mid -1 ; 
+            }else {
+                left = mid + 1; 
+            }
         }
 
-        return false ;
+        return false; 
     }
 };
