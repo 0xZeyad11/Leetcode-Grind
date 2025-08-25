@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/xeenoh/Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/xeenoh/Leetcode-Grind/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xeenoh/Leetcode-Grind/tree/master/0792-binary-search) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/xeenoh/Leetcode-Grind/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/xeenoh/Leetcode-Grind/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/zedoh/Leetcode-Grind/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zedoh/Leetcode-Grind/tree/master/0011-container-with-most-water) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/xeenoh/Leetcode-Grind/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## String Matching
 |  |
 | ------- |
