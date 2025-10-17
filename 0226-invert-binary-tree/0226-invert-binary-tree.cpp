@@ -6,29 +6,16 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        InvertSubTree(root);
-        return root;
-    }
-
-    void InvertSubTree(TreeNode* root) {
-        if (!root)
-            return;
-        
-        TreeNode* theright = root->right;
-        TreeNode* theleft = root->left;
-        TreeNode* temp = theleft ;
-        
-        root->left = theright ; 
-        root->right = temp ; 
-      
-        InvertSubTree(root->right);
-        InvertSubTree(root->left);
-    }
+        if(!root) return nullptr ;
+        std::swap(root->right , root->left);
+        invertTree(root->right) ; 
+        invertTree(root->left);
+        return  root ; 
+    } 
 };
