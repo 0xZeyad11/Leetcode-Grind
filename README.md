@@ -91,6 +91,7 @@
 | [0110-balanced-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/zedoh/Leetcode-Grind/tree/master/0813-all-paths-from-source-to-target) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0110-balanced-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/zedoh/Leetcode-Grind/tree/master/0813-all-paths-from-source-to-target) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
