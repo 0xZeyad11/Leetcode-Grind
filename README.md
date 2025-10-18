@@ -90,6 +90,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/zedoh/Leetcode-Grind/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
@@ -109,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/zedoh/Leetcode-Grind/tree/master/0812-rotate-string) |
 ## Math
 |  |
@@ -235,4 +239,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/xeenoh/Leetcode-Grind/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/xeenoh/Leetcode-Grind/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/xeenoh/Leetcode-Grind/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/xeenoh/Leetcode-Grind/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
